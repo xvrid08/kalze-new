@@ -89,7 +89,7 @@ def banner():
 """%(N))                                                    
 ───────────────────────────────────────────────────────
  [\x1b[1;96m+%s] Nama       : XVR
- [\x1b[1;96m+%s] WhatsApp   : 6283878083448
+ [\x1b[1;96m+%s] WhatsApp   : 6283865283286
  [\x1b[1;96m+%s] Facebook   : XVR
  [\x1b[1;96m+%s] Github      : https://github.com/kalze123/kalze-new
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
@@ -108,7 +108,7 @@ def kontol():
 {P}[•]{B}----------------------------------------------------{P}[•]
 {B} |
 {P}[•] AUTHOR: XVR
-{P}[•] WHATSAPP: 6283878083448
+{P}[•] WHATSAPP: 6283865283286
 {P}[•] FACEBOOK: XVR""")
 def licensi():#line:42
   try :#line:43
@@ -121,7 +121,7 @@ def licensi():#line:42
 """)#line:49
     OOO00O0OOO00OO00O =input (f"{H}[{P}?{H}]{P} Choose :{K} ")#line:50
     if OOO00O0OOO00OO00O in ['1','01']:#line:51
-      print (f"{H}[{P}!{H}]{P} Anda Akan Diarahkan Ke Whatsapp...");time .sleep (3 );os .system ('xdg-open https://wa.me/6283865283278?text=Bang+Kalz+Beli+Lisensi');exit ()#line:52
+      print (f"{H}[{P}!{H}]{P} Anda Akan Diarahkan Ke Whatsapp...");time .sleep (3 );os .system ('xdg-open https://wa.me/6283865283286?text=Bang+Kalz+Beli+Lisensi');exit ()#line:52
     elif OOO00O0OOO00OO00O in ['2','02']:#line:53
       O000O000OOO000OOO =input (f"{H}[{P}?{H}]{P} Api Key :{K} ")#line:54
       if len (O000O000OOO000OOO )==0 :#line:55
